@@ -22,7 +22,7 @@
     </main>
 
     <footer>
-        <p>&copy; <?php echo $current_year; ?> 我的網站. 版權所有.</p>
+        <p>&copy; <?php echo $current_year; ?> David 的網站. 版權所有.</p>
     </footer>
 </body>
 </html>
